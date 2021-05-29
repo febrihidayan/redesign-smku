@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{241:function(e,t,n){"use strict";n.r(t);var l={},c=n(48),component=Object(c.a)(l,(function(){var e=this,t=e.$createElement;return(e._self._c||t)("p",{staticClass:"title has-text-centered"},[e._v("Febri Hidayan")])}),[],!1,null,null,null);t.default=component.exports}}]);
