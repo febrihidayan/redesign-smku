@@ -1,0 +1,30 @@
+{
+  "name": "redesign-smku",
+  "version": "1.0.0",
+  "private": true,
+  "author": {
+    "name": "Febri Hidayan",
+    "email": "febrihidayan20@gmail.com",
+    "url": "http://febrihidayan.github.io"
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/content": "^1.14.0",
+    "@nuxtjs/pwa": "^3.3.5",
+    "bulma": "^0.9.2",
+    "core-js": "^3.9.1",
+    "node-sass": "^6.0.0",
+    "nuxt": "^2.15.3",
+    "sass-loader": "10"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.15.3",
+    "@nuxt/typescript-build": "^2.1.0",
+    "fibers": "^5.0.0"
+  }
+}
